@@ -1,0 +1,64 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+	background: #000000;
+}
+
+.text-muted {
+	color: #bcbbbb;	
+	font-weight: 300;
+}
+
+.text-thin {
+	font-weight: 300;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.title-logo {
+	margin-top: 20px;
+}
+
+.title-divider { 
+	height: 3px;
+	border: none;
+	background-color: #747704;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+div.feature-highlight {
+	background: #747704;
+}
+
+div.feature-highlight h2 {
+	color: #000000;	
+}
+
+div.feature-highlight p {
+	color: #000000;
+}
+
+.modal-feature-hf {
+	background: #000000;
+	color: #747704;	
+	font-weight: 400;	
+}
+
+.modal-feature-details {
+	background: #747704;
+	color: #000000;	
+	font-weight: 400;	
+}
+
+.border-none {
+	border: none;
+}
+
+.btn-modal {	
+	color: #000000;
+	background-color: #747704;
+}
